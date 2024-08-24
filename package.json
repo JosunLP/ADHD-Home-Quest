@@ -1,0 +1,29 @@
+{
+  "name": "adhd-home-quest",
+  "version": "0.0.1",
+  "description": " An ADHD Task planning tool, based on a Quest and Leveling System. It should be developed as a independent Backend and a basic web App in Svelte for the start. Native Apps might follow. ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosunLP/ADHD-Home-Quest.git"
+  },
+  "keywords": [
+    "ADHD",
+    "planner",
+    "authism",
+    "quest"
+  ],
+  "author": "Jonas Pfalzgraf <info@josunlp.de>",
+  "contributors": [
+    {
+      "name": "Jonas Pfalzgraf",
+      "email": "info@josunlp.de",
+      "url": "https://josunlp.de"
+    },
+    {
+      "name": "Magnus Lessmann",
+      "email": "later@later.later",
+      "url": "https://m-lessmann.de"
+    }
+  ],
+  "license": "MIT"
+}
