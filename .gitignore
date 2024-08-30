@@ -792,7 +792,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-*.code-workspace
+# *.code-workspace
 
 # Local History for Visual Studio Code
 
