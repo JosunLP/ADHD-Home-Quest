@@ -11,8 +11,11 @@
     "editor.codeActionsOnSave": {
       "source.fixAll": "always"
     },
-	"files.associations": {
-		"*.embeddedhtml": "html"
-	}
+    "files.associations": {
+      "*.embeddedhtml": "html"
+    },
+    "[php]": {
+      "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    }
   }
 }
